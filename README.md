@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sameer Vohra  
 
-🚀 **Final-year Computer Science Student | Full-Stack Developer | Open Source Enthusiast**  
+🚀 **Final-year Computer Science Student | Full-Stack Developer**  
 
 💡 Passionate about building innovative and scalable solutions using **C++, JavaScript, TypeScript, and the MERN stack**.  
 
