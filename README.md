@@ -7,7 +7,7 @@
 🌐 [Portfolio](https://sameervohra-portfolio.vercel.app/) | 📧 sameervohra943@gmail.com 
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heysaiyad&label=Profile%20views&color=0e75b6&style=flat" alt="SameerVohra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SameerVohra&label=Profile%20views&color=0e75b6&style=flat" alt="SameerVohra" /> </p>
 
 ## 🛠️ **Tech Stack**
 
