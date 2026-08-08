@@ -1,53 +1,50 @@
-# 👋 Hi, I'm Sameer Vohra  
+# 👋 Hi, I'm Sameer Vohra
 
-🚀 **Software Development Engineer @ Cognida.ai**  
-Building **AI systems, backend services, and automation that actually ships to production.**
+🚀 **Software Engineer @ Cognida.ai** — building AI systems, backend services, and automation that ships to production, not just demos.
 
----
-
-I work at the intersection of **AI and backend engineering** —  
-designing systems that **reduce cost, eliminate manual workflows, and scale reliably.**
-
-Lately, I’ve been focused on:
-- 🤖 LLM-powered pipelines & intelligent automation  
-- ⚙️ Backend systems & microservices  
-- 📉 Performance + cost optimization  
-- 🔄 Real-world workflow automation (ERP, analytics, data pipelines)  
+I work at the intersection of **AI and backend engineering**: designing systems that reduce cost, eliminate manual workflows, and scale reliably. In production right now: an agentic pipeline processing **11,000+ transactions/month with zero human intervention**, and LLM cost optimizations that cut spend by **70%** with no accuracy regression.
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Featured Projects
 
-**Languages**  
-C++ • Python • TypeScript • JavaScript  
+### 🚀 [Real-Time Log Processing Engine](https://github.com/SameerVohra/LogEngine)
+A multi-threaded, real-time log processing system in **C++** — concurrent ingestion + query, mutex-guarded thread safety, O(1) sliding-window analytics via `deque`, fully containerized with Docker.
+`C++` `Multithreading` `Systems Design` `Docker`
 
-**Backend**  
-Django • FastAPI • Node.js • REST APIs • Microservices  
+### 🎬 [Chat With Video](https://github.com/SameerVohra/Chat-with-video)
+A fully offline, privacy-first RAG pipeline — transcribes video with `faster-whisper`, embeds with `sentence-transformers`, stores in `ChromaDB`, answers via local `Ollama`/Llama 3. Zero cloud dependency, timestamp-grounded answers.
+`Python` `RAG` `LLM` `Vector DB` `Docker`
 
-**AI / Data**  
-LLMs • OCR • RAG • PostgreSQL • Elasticsearch  
+---
 
-**Frontend**  
-React • Tailwind  
+## ⚙️ What I've Been Building
 
-**Infra**  
-Docker • Linux • Git  
+- 🤖 Agentic AI pipelines that extract data from unstructured documents/emails and auto-create ERP records
+- ⚙️ Backend microservices for real-time anomaly detection and financial data platforms
+- 📉 LLM pipeline cost optimization at scale (batching, multi-layer caching)
+- 🔄 Production automation replacing manual workflows across procurement, finance, and sales-ops
+
+---
+
+## 🧰 Tech I Use
+
+**Languages:** C++ • Python • TypeScript • JavaScript • SQL
+**AI / LLM:** LLM Pipelines • Agentic AI • RAG • Vector Databases • Document Intelligence • OCR • LangChain • Ollama
+**Backend:** Django • FastAPI • Node.js • REST APIs • Microservices
+**Data & Infra:** PostgreSQL • MongoDB • Elasticsearch • Docker • Linux
+**Frontend:** React • Tailwind CSS
 
 ---
 
 ## 🌐 Find Me Here
 
-- Portfolio → https://sameervohra-portfolio.vercel.app/  
-- LinkedIn → https://www.linkedin.com/in/sameer-vohra/  
-- LeetCode → https://leetcode.com/u/Sameer_Vohra  
----
-
-## ⚡
-I like building systems that take something manual, slow, or expensive —  
-and turning it into something **automated, fast, and scalable.**
----
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerVohra&show_icons=true&theme=radical" alt="Sameer Vohra's GitHub stats" />
-</p>  
+- Portfolio → [sameervohra-portfolio.vercel.app](https://sameervohra-portfolio.vercel.app/)
+- LinkedIn → [in/sameer-vohra](https://www.linkedin.com/in/sameer-vohra/)
+- LeetCode → [Sameer_Vohra](https://leetcode.com/u/Sameer_Vohra)
 
 ---
+
+![Sameer Vohra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerVohra&show_icons=true&theme=radical)
+
+*I like taking things that are manual, slow, or expensive — and making them automated, fast, and scalable.*
